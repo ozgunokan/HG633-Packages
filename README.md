@@ -1,6 +1,6 @@
 # HG633 Packages
 
-Eight individual opkg/IPK packages for the maintained HG633 port. The router keeps the original OpenWrt Software page: Update lists populates Available packages; Installed packages uses the real opkg database.
+Eight individual opkg/IPK packages for the maintained HG633 port. The router keeps the original OpenWrt Software page: Update lists populates Available packages; Installed packages uses the real opkg database. Available packages also includes the complete installed inventory; installed rows show a disabled Installed action. The default All view and package search cover both installed and repository entries.
 
 - hg633-core: LuCI and shared services
 - hg633-network: Network and Firewall

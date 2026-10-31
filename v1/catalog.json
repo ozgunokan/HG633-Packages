@@ -1,16 +1,16 @@
 {
   "schema": 1,
-  "generation": 1793455994,
+  "generation": 1793456759,
   "board": "HG633-UBI-ROOT-V1",
   "kernel": "Linux version 2.6.30 (dragon@dragon-virtual-machine) (gcc version 11.4.0 (Ubuntu 11.4.0-1ubuntu1~22.04.3) ) #49 SMP PREEMPT Sat Oct 24 21:19:01 +03 2026",
   "packages": [
     {
       "id": "hg633-applications",
       "name": "HG633 applications",
-      "version": "hg633-apps-aa570c7174eb",
-      "filename": "hg633-apps-aa570c7174eb.hgu",
-      "bytes": 3710766,
-      "sha256": "2d50cd6b5e873774d2cfa30fe3ada446d17d141f0b1aa79e2fa398794ebf0eba",
+      "version": "hg633-apps-b40303536def",
+      "filename": "hg633-apps-b40303536def.hgu",
+      "bytes": 3710917,
+      "sha256": "48397b6a1c93251c1ef02d93a6fce6403ce68f24b56b5b1f3654d04ae2c6e2f5",
       "description": "Reviewed HG633 application bundle; device settings, calibration and boot excluded."
     }
   ]

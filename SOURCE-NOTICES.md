@@ -1,5 +1,5 @@
-# Application source materials
+# Component source materials
 
-Each application release includes an accompanying `-sources.tar.gz` asset containing corresponding native helper source, reviewed patches/build scripts, and exact upstream source archives with their original license notices. Lua, JavaScript and shell application source is included directly in the application bundle. Component licenses remain their respective upstream licenses. This repository does not license proprietary vendor firmware or contain personal firmware/board calibration.
+Current native/GPL source materials are attached to the sources-opkg-20261031 Release. The archive includes corresponding helper/TLS upstream materials, the matching Linux source baseline plus reviewed module/kernel overlays and build references, and Zapret source/dependency archives. Lua, JavaScript, shell and HTML source is directly present in the IPK data archives. Component and upstream license notices remain applicable. Proprietary vendor DSP firmware and personal RF calibration are excluded.
 
-Native components include patched iproute2, HAVEGED, https_dns_proxy, musl, Mbed TLS, curl, nghttp2, c-ares and libev, plus HG633 helper source.
+The native source archive is 90,763,512 bytes with SHA256 `5f0a4e1b4b2a87d5c4ca973b7df4c32b37ec6f985c0c4185a2c52551b823e826`. Each new source file was checked against reviewed sources or its known upstream source; the embedded historical native-source archive was verified identical to its already-public Release asset.

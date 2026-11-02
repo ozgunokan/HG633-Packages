@@ -18,3 +18,5 @@ Packages preserve settings and personal RF calibration. There are no automatic r
 Native source materials and license notices: [sources-opkg-20261031](https://github.com/ozgunokan/HG633-Packages/releases/tag/sources-opkg-20261031). Never upload signing keys, personal firmware, credentials, calibration or client logs.
 
 Existing firmware-integrated components are enrolled through standard opkg only after matching the signed package payload. Personal image builds seed matching opkg ownership/version records after verifying every component file; this does not qualify generic fresh installation.
+
+2026-11-02: Wi-Fi now recovers calibration from the installed physical HG633 through a bounded read-only factory reader before radio programming. No calibration is distributed. Updated corresponding reader/decoder sources: `hg633-factory-rf-sources-20261102.tar.gz` on the Wi-Fi release. Matching Linux/toolchain materials remain at `sources-opkg-20261031`. Current-board read-only tests passed; second-board/fresh DATA boot remain unqualified.

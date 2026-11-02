@@ -23,16 +23,16 @@ Size: 43982
 SHA256sum: 46c0448f264c1e292151c71bb0ceed91a8a61885ea2d4bcd3616ced4befaab1b
 
 Package: hg633-wifi
-Version: 1.1793460321.4bddfffbdbb1
+Version: 1.1793604080.7ee7671fa90b
 Architecture: arm
 Maintainer: HG633 Port maintainers
 Section: net
 Priority: optional
 Depends: hg633-core (>= 1), hg633-network (>= 1)
 Description: Wi-Fi. Radio configuration and factory-key reader; personal RF calibration is preserved.
-Filename: https://github.com/ozgunokan/HG633-Packages/releases/download/hg633-wifi-1.1793460321.4bddfffbdbb1/hg633-wifi_1.1793460321.4bddfffbdbb1_arm.ipk
-Size: 21646
-SHA256sum: f1c94a35a9bdbc653f6b235eb1c69b9eda4a6a176c53a9da306dcfbb255490f6
+Filename: https://github.com/ozgunokan/HG633-Packages/releases/download/hg633-wifi-1.1793604080.7ee7671fa90b/hg633-wifi_1.1793604080.7ee7671fa90b_arm.ipk
+Size: 41998
+SHA256sum: 0e65de38b02f0b8c6b994d942f722458519179520ce301659418df369f172d27
 
 Package: hg633-dsl
 Version: 1.1793599187.164aecbb3645

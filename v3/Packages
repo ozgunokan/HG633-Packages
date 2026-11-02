@@ -35,16 +35,16 @@ Size: 21646
 SHA256sum: f1c94a35a9bdbc653f6b235eb1c69b9eda4a6a176c53a9da306dcfbb255490f6
 
 Package: hg633-dsl
-Version: 1.1793460321.dacbdb8a1560
+Version: 1.1793599187.164aecbb3645
 Architecture: arm
 Maintainer: HG633 Port maintainers
 Section: net
 Priority: optional
 Depends: hg633-core (>= 1), hg633-network (>= 1)
 Description: DSL & SNR. DSL statistics, SNR controls and DSL WAN integration; vendor DSP firmware remains in the base image.
-Filename: https://github.com/ozgunokan/HG633-Packages/releases/download/hg633-dsl-1.1793460321.dacbdb8a1560/hg633-dsl_1.1793460321.dacbdb8a1560_arm.ipk
-Size: 37538
-SHA256sum: e3ae84839a5ea5281c7a4c47bf2978481c1195204cf1ae96a576dfa660f08cc0
+Filename: https://github.com/ozgunokan/HG633-Packages/releases/download/hg633-dsl-1.1793599187.164aecbb3645/hg633-dsl_1.1793599187.164aecbb3645_arm.ipk
+Size: 37622
+SHA256sum: a2775d9b1ec37619d19e5feef53c45a8a91669d042ea21bf1bdca626ddf6744b
 
 Package: hg633-sqm
 Version: 1.1793460321.6b16eb97d4b3

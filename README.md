@@ -22,3 +22,7 @@ Existing firmware-integrated components are enrolled through standard opkg only 
 2026-11-02: Wi-Fi now recovers calibration from the installed physical HG633 through a bounded read-only factory reader before radio programming. No calibration is distributed. Updated corresponding reader/decoder sources: `hg633-factory-rf-sources-20261102.tar.gz` on the Wi-Fi release. Matching Linux/toolchain materials remain at `sources-opkg-20261031`. Current-board read-only tests passed; second-board/fresh DATA boot remain unqualified.
 
 2026-11-03: VDSL/PTM LAN4 bridge supports untagged and tagged output independently of the provider VLAN. Actual WAN-model PPP/IP/DNS/HTTP/certificate-verified HTTPS passed for provider35/output35 and provider35/output100; untagged/client forwarding also passed. Network module uses the existing hg633wan ownership rule so older catalog validators remain compatible. This update changes reviewed Lua/LuCI and MSS handling; matching native source materials remain at sources-opkg-20261031. Personal RF/settings are excluded. Bridge boot/power-cut and ADSL/ATM remain unqualified.
+
+## IPv6 kernel #52
+
+The separately signed `v3-ipv6-52` channel contains eight individual packages for the exact #52 kernel identity. The original #49 `v3` channel is retained. Kernel mismatches are rejected; do not mix catalogs or native modules.

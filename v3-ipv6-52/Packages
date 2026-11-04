@@ -11,16 +11,16 @@ Size: 604738
 SHA256sum: 94ee9b094a16c00703f672821306eb9e0b883d11b37500570e4571e422c1a556
 
 Package: hg633-network
-Version: 1.1793807836.fb32218a516d
+Version: 1.1793809937.193cde47d185
 Architecture: arm
 Maintainer: HG633 Port maintainers
 Section: net
 Priority: optional
 Depends: hg633-core (>= 1)
 Description: Network & Firewall. WAN, LAN, firewall, MSS, offload and network diagnostics.
-Filename: https://github.com/ozgunokan/HG633-Packages/releases/download/hg633-network-1.1793807836.fb32218a516d/hg633-network_1.1793807836.fb32218a516d_arm.ipk
-Size: 470474
-SHA256sum: c8cf19cf32085924d353869e2e62abe0a37e881330f9af56fb7ca9d18ca9a193
+Filename: https://github.com/ozgunokan/HG633-Packages/releases/download/hg633-network-1.1793809937.193cde47d185/hg633-network_1.1793809937.193cde47d185_arm.ipk
+Size: 470366
+SHA256sum: 358abe6eae292b535f2b9af5259cfa869a20919efee3b665df1c8e2f0ab8af8b
 
 Package: hg633-wifi
 Version: 1.1793809760.c4b5e9a052fb

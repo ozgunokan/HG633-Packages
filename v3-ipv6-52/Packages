@@ -59,16 +59,16 @@ Size: 203478
 SHA256sum: 365c661a8c629ac47a5b6acfc9900b4d4e9234e56efa005cb19dda7c864e6833
 
 Package: hg633-zapret
-Version: 1.1793939949.5ca25f39f35a
+Version: 1.1793941153.45e4f0bbeaa3
 Architecture: arm
 Maintainer: HG633 Port maintainers
 Section: net
 Priority: optional
 Depends: hg633-core (>= 1), hg633-network (>= 1)
 Description: Zapret. DPI service, interface, engine, immutable fake packets and matching queue modules.
-Filename: https://github.com/ozgunokan/HG633-Packages/releases/download/hg633-zapret-1.1793939949.5ca25f39f35a/hg633-zapret_1.1793939949.5ca25f39f35a_arm.ipk
-Size: 174776
-SHA256sum: 5ef901e13bd82c1cd6c2e3a5fac45440c228db3ebfc0871f50926f672dd93f04
+Filename: https://github.com/ozgunokan/HG633-Packages/releases/download/hg633-zapret-1.1793941153.45e4f0bbeaa3/hg633-zapret_1.1793941153.45e4f0bbeaa3_arm.ipk
+Size: 194034
+SHA256sum: 2c0b6226e6fcc732415a7642071e616203d75b581b74e4468d1446b8794b576b
 
 Package: hg633-doh
 Version: 1.1793802322.30c331101411

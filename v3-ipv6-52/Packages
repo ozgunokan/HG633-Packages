@@ -1,26 +1,26 @@
 Package: hg633-core
-Version: 1.1793939949.c9af757ac854
+Version: 1.1793943401.9a29dc36d30a
 Architecture: arm
 Maintainer: HG633 Port maintainers
 Section: net
 Priority: optional
 Essential: yes
 Description: LuCI & shared services. LuCI theme, management interface, settings and signed package manager.
-Filename: https://github.com/ozgunokan/HG633-Packages/releases/download/hg633-core-1.1793939949.c9af757ac854/hg633-core_1.1793939949.c9af757ac854_arm.ipk
-Size: 745688
-SHA256sum: e92a1ddee8ba38f57e979343a0dcc4a5d86a7c5ae8fb37bd11837257ca2b6356
+Filename: https://github.com/ozgunokan/HG633-Packages/releases/download/hg633-core-1.1793943401.9a29dc36d30a/hg633-core_1.1793943401.9a29dc36d30a_arm.ipk
+Size: 748658
+SHA256sum: 9101e036693582f4e01846c08c2c8a7ab04ea58791a6884df21f483f45223ac7
 
 Package: hg633-network
-Version: 1.1793939949.54f3a2e5d6b1
+Version: 1.1793943401.a0b8ea81d420
 Architecture: arm
 Maintainer: HG633 Port maintainers
 Section: net
 Priority: optional
 Depends: hg633-core (>= 1)
 Description: Network & Firewall. WAN, LAN, firewall, MSS, offload and network diagnostics.
-Filename: https://github.com/ozgunokan/HG633-Packages/releases/download/hg633-network-1.1793939949.54f3a2e5d6b1/hg633-network_1.1793939949.54f3a2e5d6b1_arm.ipk
-Size: 473556
-SHA256sum: fce98f8d344a545fef6ca42b449c60d4f695b6690f46b890c47291117019eab4
+Filename: https://github.com/ozgunokan/HG633-Packages/releases/download/hg633-network-1.1793943401.a0b8ea81d420/hg633-network_1.1793943401.a0b8ea81d420_arm.ipk
+Size: 501116
+SHA256sum: aa51b39e07512bf1bfe0c73fe6d18068899087d75f53a94b2786f5b39cbbc832
 
 Package: hg633-wifi
 Version: 1.1793809760.c4b5e9a052fb
@@ -83,14 +83,14 @@ Size: 846448
 SHA256sum: 7b9e9f45da86275f9386adeedf65f4a5706c9ce8f88257fc6f3ce62c27259650
 
 Package: hg633-system
-Version: 1.1793802322.04f1f7bbedeb
+Version: 1.1793943401.60a713a82e10
 Architecture: arm
 Maintainer: HG633 Port maintainers
 Section: net
 Priority: optional
 Depends: hg633-core (>= 1), hg633-network (>= 1)
 Description: System tools. Logs, clock/NTP, temperature, LEDs, buttons and USB tools.
-Filename: https://github.com/ozgunokan/HG633-Packages/releases/download/hg633-system-1.1793802322.04f1f7bbedeb/hg633-system_1.1793802322.04f1f7bbedeb_arm.ipk
-Size: 20066
-SHA256sum: 818898eabd1712832ad9577202a865d15828aa74e6ca45dbca42fe9cb3b96d6e
+Filename: https://github.com/ozgunokan/HG633-Packages/releases/download/hg633-system-1.1793943401.60a713a82e10/hg633-system_1.1793943401.60a713a82e10_arm.ipk
+Size: 19842
+SHA256sum: d844e1a07fd3c00f415c0b0facdf2c2a9eda07797144f63243dc8cebb6c173de
 

@@ -1,26 +1,26 @@
 Package: hg633-core
-Version: 1.1795297161.64430ca77fec
+Version: 1.1795297938.921336124b5d
 Architecture: arm
 Maintainer: HG633 Port maintainers
 Section: net
 Priority: optional
 Essential: yes
 Description: LuCI & shared services. LuCI theme, management interface, settings and signed package manager.
-Filename: https://github.com/ozgunokan/HG633-Packages/releases/download/hg633-core-1.1795297161.64430ca77fec/hg633-core_1.1795297161.64430ca77fec_arm.ipk
-Size: 749084
-SHA256sum: 0aeac820f0a8e6f30e86c1a3b5173952c98803a932240cf03391dc56f4f23b94
+Filename: https://github.com/ozgunokan/HG633-Packages/releases/download/hg633-core-1.1795297938.921336124b5d/hg633-core_1.1795297938.921336124b5d_arm.ipk
+Size: 750128
+SHA256sum: 7af7a95cab12b081d8ed0e5a37a8873b5819e461368bae56c1a604af1c917d1a
 
 Package: hg633-network
-Version: 1.1793943401.a0b8ea81d420
+Version: 1.1795297938.f6e46b73f6d7
 Architecture: arm
 Maintainer: HG633 Port maintainers
 Section: net
 Priority: optional
 Depends: hg633-core (>= 1)
 Description: Network & Firewall. WAN, LAN, firewall, MSS, offload and network diagnostics.
-Filename: https://github.com/ozgunokan/HG633-Packages/releases/download/hg633-network-1.1793943401.a0b8ea81d420/hg633-network_1.1793943401.a0b8ea81d420_arm.ipk
-Size: 501116
-SHA256sum: aa51b39e07512bf1bfe0c73fe6d18068899087d75f53a94b2786f5b39cbbc832
+Filename: https://github.com/ozgunokan/HG633-Packages/releases/download/hg633-network-1.1795297938.f6e46b73f6d7/hg633-network_1.1795297938.f6e46b73f6d7_arm.ipk
+Size: 501130
+SHA256sum: 27a0c372c6b18b45cad2a4934c7a8de1ebe29bd23727155d799330fbda673b38
 
 Package: hg633-wifi
 Version: 1.1793809760.c4b5e9a052fb

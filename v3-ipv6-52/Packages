@@ -1,14 +1,14 @@
 Package: hg633-core
-Version: 1.1793943933.7bba3432bbf3
+Version: 1.1795297161.64430ca77fec
 Architecture: arm
 Maintainer: HG633 Port maintainers
 Section: net
 Priority: optional
 Essential: yes
 Description: LuCI & shared services. LuCI theme, management interface, settings and signed package manager.
-Filename: https://github.com/ozgunokan/HG633-Packages/releases/download/hg633-core-1.1793943933.7bba3432bbf3/hg633-core_1.1793943933.7bba3432bbf3_arm.ipk
-Size: 748598
-SHA256sum: 7435c5a9ae1e5dc455f79110e36663d7ce8fb59e1405977396cb5ff5ad4af395
+Filename: https://github.com/ozgunokan/HG633-Packages/releases/download/hg633-core-1.1795297161.64430ca77fec/hg633-core_1.1795297161.64430ca77fec_arm.ipk
+Size: 749084
+SHA256sum: 0aeac820f0a8e6f30e86c1a3b5173952c98803a932240cf03391dc56f4f23b94
 
 Package: hg633-network
 Version: 1.1793943401.a0b8ea81d420

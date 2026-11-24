@@ -1,14 +1,14 @@
 Package: hg633-core
-Version: 1.1795555824.53e279d1fee1
+Version: 1.1795557533.94a4d597aab2
 Architecture: arm
 Maintainer: HG633 Port maintainers
 Section: net
 Priority: optional
 Essential: yes
 Description: LuCI & shared services. LuCI theme, management interface, settings and signed package manager.
-Filename: https://github.com/ozgunokan/HG633-Packages/releases/download/hg633-core-1.1795555824.53e279d1fee1/hg633-core_1.1795555824.53e279d1fee1_arm.ipk
-Size: 755004
-SHA256sum: dc99598b2736a2ca52bac64f92f8f80e2e57238ec0163fdf28e9030d851838ca
+Filename: https://github.com/ozgunokan/HG633-Packages/releases/download/hg633-core-1.1795557533.94a4d597aab2/hg633-core_1.1795557533.94a4d597aab2_arm.ipk
+Size: 755208
+SHA256sum: 4e3a3495d8066f8799ccd56520c051f3c3467ab5b593ee44c88accd04c873ed2
 
 Package: hg633-network
 Version: 1.1795555824.04fa3875b762
@@ -71,16 +71,16 @@ Size: 194034
 SHA256sum: 2c0b6226e6fcc732415a7642071e616203d75b581b74e4468d1446b8794b576b
 
 Package: hg633-doh
-Version: 1.1795555824.1855931e5c3c
+Version: 1.1795557533.cb37f8532553
 Architecture: arm
 Maintainer: HG633 Port maintainers
 Section: net
 Priority: optional
 Depends: hg633-core (>= 1), hg633-network (>= 1)
 Description: DNS over HTTPS. Encrypted DNS interface, resolver engine, entropy helper and certificate bundle.
-Filename: https://github.com/ozgunokan/HG633-Packages/releases/download/hg633-doh-1.1795555824.1855931e5c3c/hg633-doh_1.1795555824.1855931e5c3c_arm.ipk
-Size: 846752
-SHA256sum: fb43dff0d01131a67865a150dc00f55ac0225e34465912ae3418011acffcab6d
+Filename: https://github.com/ozgunokan/HG633-Packages/releases/download/hg633-doh-1.1795557533.cb37f8532553/hg633-doh_1.1795557533.cb37f8532553_arm.ipk
+Size: 846874
+SHA256sum: ad3eb6d43f1d07ee7e038993743261633ff37fb957271251be93ef3ea12307ac
 
 Package: hg633-system
 Version: 1.1793943401.60a713a82e10

@@ -1,0 +1,24 @@
+Package: hg633-nextdns
+Version: 1.1795760412.70121588a400
+Architecture: arm
+Maintainer: HG633 Port maintainers
+Section: net
+Priority: optional
+Depends: hg633-core (>= 1), hg633-doh (>= 1), hg633-network (>= 1)
+Description: NextDNS profiles. Per-device NextDNS profiles over DoH with health-checked fallback to the router DNS. Add-on, adapted from hg633-nextdns 1.0.0-4.
+Filename: https://github.com/ozgunokan/HG633-Packages/releases/download/hg633-nextdns-1.1795760412.70121588a400/hg633-nextdns_1.1795760412.70121588a400_arm.ipk
+Size: 14182
+SHA256sum: 8f1e569a95e20ca82d83874221f45ade6f4c5b25b3943f044788239bcbedae51
+
+Package: hg633-gecikme-haritasi
+Version: 1.1795760412.74ab095db705
+Architecture: arm
+Maintainer: HG633 Port maintainers
+Section: net
+Priority: optional
+Depends: hg633-core (>= 1), hg633-doh (>= 1), hg633-network (>= 1)
+Description: Gecikme Haritasi. Gecikmeharitasi.net latency/route analysis with an optional probe service (off by default). Add-on, adapted from 3.1.5-2.
+Filename: https://github.com/ozgunokan/HG633-Packages/releases/download/hg633-gecikme-haritasi-1.1795760412.74ab095db705/hg633-gecikme-haritasi_1.1795760412.74ab095db705_arm.ipk
+Size: 644378
+SHA256sum: ef6b491f094bcd8465a6e9fbd7d831f5fdbff471ba77ee9a3619ade02b9c1133
+

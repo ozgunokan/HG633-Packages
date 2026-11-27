@@ -26,3 +26,7 @@ Existing firmware-integrated components are enrolled through standard opkg only 
 ## IPv6 kernel #52
 
 The separately signed `v3-ipv6-52` channel contains eight individual packages for the exact #52 kernel identity. The original #49 `v3` channel is retained. Kernel mismatches are rejected; do not mix catalogs or native modules.
+
+## Optional add-ons (#52)
+
+The separately signed `v3-ipv6-52-addons` channel holds optional add-ons that System > Software lists from core r16 on. They are not part of the firmware and are confined to their own files.

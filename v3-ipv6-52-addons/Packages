@@ -1,14 +1,14 @@
 Package: hg633-nextdns
-Version: 1.1795760412.70121588a400
+Version: 1.1795802948.9698bf6aede6
 Architecture: arm
 Maintainer: HG633 Port maintainers
 Section: net
 Priority: optional
 Depends: hg633-core (>= 1), hg633-doh (>= 1), hg633-network (>= 1)
 Description: NextDNS profiles. Per-device NextDNS profiles over DoH with health-checked fallback to the router DNS. Add-on, adapted from hg633-nextdns 1.0.0-4.
-Filename: https://github.com/ozgunokan/HG633-Packages/releases/download/hg633-nextdns-1.1795760412.70121588a400/hg633-nextdns_1.1795760412.70121588a400_arm.ipk
-Size: 14182
-SHA256sum: 8f1e569a95e20ca82d83874221f45ade6f4c5b25b3943f044788239bcbedae51
+Filename: https://github.com/ozgunokan/HG633-Packages/releases/download/hg633-nextdns-1.1795802948.9698bf6aede6/hg633-nextdns_1.1795802948.9698bf6aede6_arm.ipk
+Size: 14206
+SHA256sum: 0a107af29149cfce88781f66a3847f99b7b9e66a9b9dd2e05175f3c71b6d8ab4
 
 Package: hg633-gecikme-haritasi
 Version: 1.1795760412.74ab095db705

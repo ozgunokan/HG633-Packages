@@ -1,14 +1,14 @@
 Package: hg633-core
-Version: 1.1795779965.5123eb4f5bff
+Version: 1.1795784385.368de12d2564
 Architecture: arm
 Maintainer: HG633 Port maintainers
 Section: net
 Priority: optional
 Essential: yes
 Description: LuCI & shared services. LuCI theme, management interface, settings and signed package manager.
-Filename: https://github.com/ozgunokan/HG633-Packages/releases/download/hg633-core-1.1795779965.5123eb4f5bff/hg633-core_1.1795779965.5123eb4f5bff_arm.ipk
-Size: 768630
-SHA256sum: dc007178cfbe80e05ca224250d8e8ed000e84fe3abf6b86f8add2575fa8f5b55
+Filename: https://github.com/ozgunokan/HG633-Packages/releases/download/hg633-core-1.1795784385.368de12d2564/hg633-core_1.1795784385.368de12d2564_arm.ipk
+Size: 772328
+SHA256sum: fcc98369392705a04124357a6b63dcd9bba5ed3132a652cb4821eb56755ef9da
 
 Package: hg633-network
 Version: 1.1795779965.d9242213b068
@@ -23,16 +23,16 @@ Size: 504978
 SHA256sum: abe6fa05cd1434dfb5125c7d6eb7b31959ceecca082ae608d33d904c6ee841b4
 
 Package: hg633-wifi
-Version: 1.1795779965.1b6959845265
+Version: 1.1795784385.6169d54c168b
 Architecture: arm
 Maintainer: HG633 Port maintainers
 Section: net
 Priority: optional
 Depends: hg633-core (>= 1), hg633-network (>= 1)
 Description: Wi-Fi. Radio configuration and factory-key reader; personal RF calibration is preserved.
-Filename: https://github.com/ozgunokan/HG633-Packages/releases/download/hg633-wifi-1.1795779965.1b6959845265/hg633-wifi_1.1795779965.1b6959845265_arm.ipk
-Size: 42356
-SHA256sum: e97bdcd6500409e9ce8e1b1c9b9877bfa34e1c2f2bdbcd9f1f50a856288ab73f
+Filename: https://github.com/ozgunokan/HG633-Packages/releases/download/hg633-wifi-1.1795784385.6169d54c168b/hg633-wifi_1.1795784385.6169d54c168b_arm.ipk
+Size: 42678
+SHA256sum: 26071c4b7c9c0ba30ecd3f07719bf17c5b05eff39bd3cc1aeb74df3824fc535b
 
 Package: hg633-dsl
 Version: 1.1795728379.89923030f172

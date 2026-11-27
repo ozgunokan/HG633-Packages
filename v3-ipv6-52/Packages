@@ -1,50 +1,50 @@
 Package: hg633-core
-Version: 1.1795801672.51660f455a6e
+Version: 1.1795808938.1ed69a1e24f1
 Architecture: arm
 Maintainer: HG633 Port maintainers
 Section: net
 Priority: optional
 Essential: yes
 Description: LuCI & shared services. LuCI theme, management interface, settings and signed package manager.
-Filename: https://github.com/ozgunokan/HG633-Packages/releases/download/hg633-core-1.1795801672.51660f455a6e/hg633-core_1.1795801672.51660f455a6e_arm.ipk
-Size: 772578
-SHA256sum: eef1ca026a4b21fde9462f7040635fd2550958cf612dd5448897619eb45f7f04
+Filename: https://github.com/ozgunokan/HG633-Packages/releases/download/hg633-core-1.1795808938.1ed69a1e24f1/hg633-core_1.1795808938.1ed69a1e24f1_arm.ipk
+Size: 774716
+SHA256sum: d2388d3819449530908207d11e46ba10830538f7368a822352728ec6377d962a
 
 Package: hg633-network
-Version: 1.1795779965.d9242213b068
+Version: 1.1795808938.0a43e3011616
 Architecture: arm
 Maintainer: HG633 Port maintainers
 Section: net
 Priority: optional
 Depends: hg633-core (>= 1)
 Description: Network & Firewall. WAN, LAN, firewall, MSS, offload and network diagnostics.
-Filename: https://github.com/ozgunokan/HG633-Packages/releases/download/hg633-network-1.1795779965.d9242213b068/hg633-network_1.1795779965.d9242213b068_arm.ipk
+Filename: https://github.com/ozgunokan/HG633-Packages/releases/download/hg633-network-1.1795808938.0a43e3011616/hg633-network_1.1795808938.0a43e3011616_arm.ipk
 Size: 504978
-SHA256sum: abe6fa05cd1434dfb5125c7d6eb7b31959ceecca082ae608d33d904c6ee841b4
+SHA256sum: 44914bb3d9739b2e58ff917cbf1f98fbb1e40b7a49319358994f7f083b5d6593
 
 Package: hg633-wifi
-Version: 1.1795784385.6169d54c168b
+Version: 1.1795808938.a667689cd352
 Architecture: arm
 Maintainer: HG633 Port maintainers
 Section: net
 Priority: optional
 Depends: hg633-core (>= 1), hg633-network (>= 1)
 Description: Wi-Fi. Radio configuration and factory-key reader; personal RF calibration is preserved.
-Filename: https://github.com/ozgunokan/HG633-Packages/releases/download/hg633-wifi-1.1795784385.6169d54c168b/hg633-wifi_1.1795784385.6169d54c168b_arm.ipk
-Size: 42678
-SHA256sum: 26071c4b7c9c0ba30ecd3f07719bf17c5b05eff39bd3cc1aeb74df3824fc535b
+Filename: https://github.com/ozgunokan/HG633-Packages/releases/download/hg633-wifi-1.1795808938.a667689cd352/hg633-wifi_1.1795808938.a667689cd352_arm.ipk
+Size: 42686
+SHA256sum: 4cb7e9e5b65c3f61d18413e58d3c9f8b6b5e6c2726b3869d2b12be5c7dcb300f
 
 Package: hg633-dsl
-Version: 1.1795728379.89923030f172
+Version: 1.1795808938.94cbc6a3e8aa
 Architecture: arm
 Maintainer: HG633 Port maintainers
 Section: net
 Priority: optional
 Depends: hg633-core (>= 1), hg633-network (>= 1)
 Description: DSL & SNR. DSL statistics, SNR controls and DSL WAN integration; vendor DSP firmware remains in the base image.
-Filename: https://github.com/ozgunokan/HG633-Packages/releases/download/hg633-dsl-1.1795728379.89923030f172/hg633-dsl_1.1795728379.89923030f172_arm.ipk
-Size: 39666
-SHA256sum: cdecd1524b7f5900579d82176380d3c70786a3e9c3cd5ef20606751b87bbed14
+Filename: https://github.com/ozgunokan/HG633-Packages/releases/download/hg633-dsl-1.1795808938.94cbc6a3e8aa/hg633-dsl_1.1795808938.94cbc6a3e8aa_arm.ipk
+Size: 39658
+SHA256sum: 80c14b412d606603c933692379c5860f4b4882511c25ff94b200d6d3473addcb
 
 Package: hg633-sqm
 Version: 1.1793802322.e8eaa296ccb6
@@ -71,16 +71,16 @@ Size: 194034
 SHA256sum: 2c0b6226e6fcc732415a7642071e616203d75b581b74e4468d1446b8794b576b
 
 Package: hg633-doh
-Version: 1.1795779965.137825538e9d
+Version: 1.1795808938.d2a700b048b5
 Architecture: arm
 Maintainer: HG633 Port maintainers
 Section: net
 Priority: optional
 Depends: hg633-core (>= 1), hg633-network (>= 1)
 Description: DNS over HTTPS. Encrypted DNS interface, resolver engine, entropy helper and certificate bundle.
-Filename: https://github.com/ozgunokan/HG633-Packages/releases/download/hg633-doh-1.1795779965.137825538e9d/hg633-doh_1.1795779965.137825538e9d_arm.ipk
-Size: 846942
-SHA256sum: 22ef25bf75f4600aaff6633c9ea836cfd3b708cfbd498fdd2174cbbbda3db8a4
+Filename: https://github.com/ozgunokan/HG633-Packages/releases/download/hg633-doh-1.1795808938.d2a700b048b5/hg633-doh_1.1795808938.d2a700b048b5_arm.ipk
+Size: 846940
+SHA256sum: 6d0df5644a2ca5a793193f777ed19359139b1c5bc2034dbca8c6e589d58a6e28
 
 Package: hg633-system
 Version: 1.1795728379.bbdace186bfe

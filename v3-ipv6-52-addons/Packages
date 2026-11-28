@@ -22,3 +22,15 @@ Filename: https://github.com/ozgunokan/HG633-Packages/releases/download/hg633-ge
 Size: 644396
 SHA256sum: befedb38a1cadba6dfe8c1f43857c2f07e1d91fa78917f67f0de1998420c34e0
 
+Package: hg633-cloudflared
+Version: 1.1795842044.51522d6f46ce
+Architecture: arm
+Maintainer: HG633 Port maintainers
+Section: net
+Priority: optional
+Depends: hg633-core (>= 1), hg633-doh (>= 1), hg633-network (>= 1)
+Description: Cloudflare Tunnel. Cloudflare Tunnel connector (cloudflared 2026.11.2, HTTP/2) for access without open ports. Refuses to run while root has no password.
+Filename: https://github.com/ozgunokan/HG633-Packages/releases/download/hg633-cloudflared-1.1795842044.51522d6f46ce/hg633-cloudflared_1.1795842044.51522d6f46ce_arm.ipk
+Size: 9466132
+SHA256sum: 82d558037a456d36a52a171b09c05cec14fba8daac8b7fe4110178075c41617e
+
